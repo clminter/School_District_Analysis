@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/81878169/120140384-11a6bc00-c1a0-11eb-9bd7-68b6d5735374.png)
 
 ### Scores by school spending
-* ##### * Post Evidence Adjustment
+##### * Post Evidence Adjustment
 ![image](https://user-images.githubusercontent.com/81878169/120139270-bb387e00-c19d-11eb-8a9b-85f19c3078b6.png)
 ##### * Prior to Discovery of Tampering
 ![image](https://user-images.githubusercontent.com/81878169/120139413-094d8180-c19e-11eb-8717-3c20cdee2b73.png)
@@ -38,9 +38,11 @@
 
 ### Scores by school size
 ![image](https://user-images.githubusercontent.com/81878169/120138933-161da580-c19d-11eb-9918-0edafb04365c.png)
+##### No Change
 
 ### Scores by school type
 ![image](https://user-images.githubusercontent.com/81878169/120138830-e66e9d80-c19c-11eb-8c3b-8040deb71f5b.png)
+##### No Change
 
 
 
