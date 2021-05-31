@@ -23,6 +23,16 @@
 ![image](https://user-images.githubusercontent.com/81878169/120138225-b246ad00-c19b-11eb-9611-cce17608d28e.png)
 ##### Note how each school in the district has reasonably consistent math scores throughout each grade.  It could be inferred that the Thomas High School 9th grade math and reading scores would be be in line with THS's other grades.
 
+* Math and reading scores by grade
+* 
+* Scores by school spending
+* 
+* Scores by school size
+* ![image](https://user-images.githubusercontent.com/81878169/120138933-161da580-c19d-11eb-9918-0edafb04365c.png)
+
+* Scores by school type
+![image](https://user-images.githubusercontent.com/81878169/120138830-e66e9d80-c19c-11eb-8c3b-8040deb71f5b.png)
+
 
 
 
