@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/81878169/120136472-d607f400-c197-11eb-8bcf-abb48409c5e2.png)
 ##### * Prior to Discovery of Tampering
 ![image](https://user-images.githubusercontent.com/81878169/120136646-431b8980-c198-11eb-9da0-cf12986b40d6.png)
-##### The removal of data from Thomas High School 9th grade proved to be insignificant to the performace of the district.
+##### The removal of data from Thomas High School 9th grade proved to be insignificant to the performance of the district.
 #### Affect on the School Summary
 ##### * Post Evidence Adjustment
 ![image](https://user-images.githubusercontent.com/81878169/120137071-25025900-c199-11eb-9464-f8c663377a87.png)
@@ -23,21 +23,23 @@
 ![image](https://user-images.githubusercontent.com/81878169/120138225-b246ad00-c19b-11eb-9611-cce17608d28e.png)
 ##### Note how each school in the district has reasonably consistent math scores throughout each grade.  It could be inferred that the Thomas High School 9th grade math and reading scores would be be in line with THS's other grades.
 
-* Math and reading scores by grade
-* 
-* Scores by school spending
+#### Math and reading scores by grade
+* Reading Scores:
+![image](https://user-images.githubusercontent.com/81878169/120140316-e6bc6800-c19f-11eb-867b-77bfc25b9fad.png)
+* Math Scores:
+![image](https://user-images.githubusercontent.com/81878169/120140384-11a6bc00-c1a0-11eb-9bd7-68b6d5735374.png)
+
+### Scores by school spending
 * ##### * Post Evidence Adjustment
 ![image](https://user-images.githubusercontent.com/81878169/120139270-bb387e00-c19d-11eb-8a9b-85f19c3078b6.png)
 ##### * Prior to Discovery of Tampering
 ![image](https://user-images.githubusercontent.com/81878169/120139413-094d8180-c19e-11eb-8717-3c20cdee2b73.png)
 
 
-
-
-* Scores by school size
+### Scores by school size
 ![image](https://user-images.githubusercontent.com/81878169/120138933-161da580-c19d-11eb-9918-0edafb04365c.png)
 
-* Scores by school type
+### Scores by school type
 ![image](https://user-images.githubusercontent.com/81878169/120138830-e66e9d80-c19c-11eb-8c3b-8040deb71f5b.png)
 
 
