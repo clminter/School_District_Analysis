@@ -44,6 +44,9 @@
 ![image](https://user-images.githubusercontent.com/81878169/120138830-e66e9d80-c19c-11eb-8c3b-8040deb71f5b.png)
 ##### No Change
 
+## Summary
+##### The deletion of 9th grade students from THS had a negligable effect on key school district measurables.
+
 
 
 
